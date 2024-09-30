@@ -1,6 +1,24 @@
 const projects = [
     {
         _id: '1',
+        name: 'OptimEyes',
+        image: '/images/technova.png',
+        description: '2024 Technova Hacker Project - Sigmas in STEM',
+        abstract:'Based on the 20-20-20 Rule, OptimEyes allows users to set a 20-minute timer. When time is up, the website notifies the user of a break and suggests a simple wellness activity (each popup designed by budding female artists around the world).',
+        awards: 'Best Beginner Hack - 3rd Place',
+        year: '2024',
+        time: 'September 2024',
+        youtube: 'https://www.youtube.com/watch?v=nlEk53M1n4k',
+        thumbnail: 'https://img.youtube.com/vi/nlEk53M1n4k/maxresdefault.jpg',
+        viddes: 'OptimEyes Video Pitch',
+        moreinfo: 'https://devpost.com/software/optimeyes',
+        linkdesc: 'Technova Project Submission - Devpost',
+        extra: 'https://github.com/s-illly/Project-Technova',
+        extradesc: 'Project Github',
+    },
+
+    {
+        _id: '2',
         name: 'Talk to the Hand',
         image: '/images/glove.jpeg',
         description: 
@@ -21,8 +39,8 @@ const projects = [
     },
 
     {
-        _id: '2',
-        name: 'Eco-House',
+        _id: '3',
+        name: 'Eco-House - Proposal',
         image: '/images/house.jpeg',
         description: 'SHAD Design Team 8 Housing Crisis Solution',
         abstract: 
@@ -38,7 +56,7 @@ const projects = [
 
     },
     {
-        _id: '3',
+        _id: '4',
         name: 'A Cakey Situation',
         image: '/images/game.jpeg',
         description: 
